@@ -10,12 +10,12 @@ Goal: Establish foundational infrastructure knowledge.
 Purpose: Understanding the attack surface.
 
 - Step 1.1: Linux Administration
-  - Source: OverTheWire Bandit
+  - Source: [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
   - Level: 0-20
   - Goal: Command-line proficiency and file system permissions.
 
 - Step 1.2: Network Protocols
-  - Source: Cisco Skills For All / Networking Basics
+  - Source: [Cisco Networking Basics](https://www.netacad.com/courses/networking-basics)
   - Goal: Analysis of TCP/IP, DNS, and HTTP/S.
 
 ---
@@ -25,11 +25,11 @@ Goal: Identify and exploit web-based vulnerabilities.
 Purpose: Web interfaces are primary entry points for initial access.
 
 - Step 2.1: OWASP Top 10
-  - Source: PortSwigger Web Security Academy
+  - Source: [PortSwigger Web Security Academy](https://portswigger.net/web-security)
   - Goal: Practice SQLi, XSS, and Broken Access Control.
 
 - Step 2.2: Proxies and Scanning
-  - Tools: Burp Suite, Nmap, Gobuster.
+  - Tools: [Burp Suite](https://portswigger.net/burp/communitydownload), [Nmap](https://nmap.org/), [Gobuster](https://github.com/OJ/gobuster).
 
 ---
 
@@ -38,11 +38,11 @@ Goal: System compromise and lateral movement.
 Purpose: Executing full attack chains.
 
 - Step 3.1: Host Exploitation
-  - Source: TryHackMe Junior Pentester Path
+  - Source: [TryHackMe Junior Pentester Path](https://tryhackme.com/path/outline/jrpenetrationtester)
   - Goal: Privilege escalation and payload delivery.
 
 - Step 3.2: Active Directory
-  - Source: Hack The Box / AD 101
+  - Source: [HTB Academy - Active Directory LDAP](https://academy.hackthebox.com/course/preview/active-directory-ldap)
   - Goal: Understanding Kerberos and Domain Controller exploitation.
 
 ---
@@ -50,5 +50,5 @@ Purpose: Executing full attack chains.
 ## Phase 4: Professional Certification
 Goal: Formal validation of technical skills.
 
-1. ISC2: Certified in Cybersecurity (CC) - [Status: Pending]
-2. Google Cybersecurity Professional - [Status: Pending]
+1. [ISC2: Certified in Cybersecurity (CC)](https://www.isc2.org/landing/1mcc) - [Status: Pending]
+2. [Google Cybersecurity Professional (Coursera)](https://www.coursera.org/professional-certificates/google-cybersecurity) - [Status: Pending]
