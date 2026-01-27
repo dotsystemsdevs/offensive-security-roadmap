@@ -52,3 +52,11 @@ Goal: Formal validation of technical skills.
 
 1. [ISC2: Certified in Cybersecurity (CC)](https://www.isc2.org/landing/1mcc) - [Status: Pending]
 2. [Google Cybersecurity Professional (Coursera)](https://www.coursera.org/professional-certificates/google-cybersecurity) - [Status: Pending]
+
+---
+
+## CTF Resources
+
+A quick reference guide for Capture The Flag competitions with tools, commands, and cheat sheets.
+
+- [CTF Cheat Sheet](ctf-resources/README.md) - Web tools, file signatures, encoding formats, and more.
